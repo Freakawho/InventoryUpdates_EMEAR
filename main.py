@@ -13,9 +13,9 @@ SCOPES = ['https://www.googleapis.com/auth/spreadsheets']
 SAMPLE_SPREADSHEET_ID_input = '19xxZq03NZ33MZhPlSDik7zNnBu7XZixA-dQ8IHn-FKI'
 SAMPLE_RANGE_NAME = "'Availability (EMEA)'!A4:D2000"
 TABLE_NAME = 'EUR_table_save.csv'
-email_to = 'tbacala@cisco.com'
-email_from = 'tavi.bacala@gmail.com'
-gmail_password = 'sswivnrebhpfzcdu'
+email_to = 'Insert_Email'
+email_from = 'Insert_Email'
+gmail_password = 'Insert_2FA_Password'
 
 def grab_data():
     global values_input, service
